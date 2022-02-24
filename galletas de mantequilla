@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+ <html lang=¨es¨>
+ <head>
+ <title>Las recetas favoritas de Valentina Jose</title>
+ </head>
+ <style>
+body {background-color: burlywood;
+color:yellow;}
+
+    h1 { background:blueviolet;
+   font-size: 30px;
+   font-family: arial;
+   color: yellow;}
+
+   li {font-family: arial;
+   color:yellow;}
+
+   h2 { color: blueviolet;
+   font-family: Arial;
+   font-size:20px;}
+
+   h3 { color: blueviolet;
+   font-family: arial;} 
+
+
+</style>
+ <body>
+ <h1>Las mejores galletas de mantequilla</h1>   
+ <h2>Que necesito?</h2>
+ <ul> 
+ <li>2 Huevos</li> 
+ <li>250 Gramos de Margarina</li>
+ <li>600 Gramos de Harina 0000 (4 ceros)</li>
+ <li>400 Gramos de Azúcar</li>
+ <li>1 Cucharadita de Polvo para hornear</li>
+ <li>1 pizca de sal</li>
+ <li>1 cdta de esencia de vainilla</li>
+ <li>un puñado de rayadura de limon</li>
+ </ul>
+ <h2>Paso 1</h2>
+
+ <p>Para empezar con la masa de las pastas caseras fáciles, coge un recipiente y tamiza la harina, el azúcar y los polvos de hornear. Luego añade la margarina a temperatura ambiente para que sea más fácil de mezclar junto con la ralladura de limón. Lo que vamos a hacer ahora es lo que se denomina arenar la masa, es decir, mezclar la margarina con la harina (y el resto de ingredientes ya mencionados) con la manos de tal manera que se vaya deshaciendo poco a poco, y al final quede la harina con una textura arenosa y desmenuzada. Precalienta mientras el horno a 180ºC.</p>
+  
+ <h2>Paso 2</h2>
+ <p>
+    Cuando lo hayas conseguido, haz un volcán en la masa de las galletas caseras fáciles y vierte los huevos junto con la esencia de vainilla. Mezcla todo bien y cuando la masa empiece a ponerse más compacta, amasa con las manos. Deberás amasar hasta que se integren todos los ingredientes y se forme una masa húmeda y suave. Déjala reposar unos minutos tapada con un paño limpio.</p>
+
+ <h2>Paso 3</h2>
+
+ <p> Cuando la masa de galletas haya aumentado ligeramente su volumen, espolvorea un poco de harina sobre la mesa y vuelve a amasarla hasta que puedas extenderla sobre la superficie y estirarla con la ayuda de un rodillo. Ahora corta las galletas de mantequilla con la forma que desees. Si no dispones de molde para galletas, puedes cortarlas con la boca de un vaso y hacerlas redondas. <small>El número final de galletas variará en función del tamaño que le des. </small>Deberían salir entre 4 y 5 bandejas. </p>
+ 
+ <h2>Paso 4</h2> 
+ <p>Hornea las galletas rápidas caseras durante 10 minutos como máximo. En función de la potencia de tu horno puede que tarden hasta menos, eso sí, deberás vigilarlas para que no se quemen. Cuando estén doradas, retíralas del horno con cuidado y deja que se enfríen.</p>
+    
+ <article>
+    
+
+    
+<h3>ps:puedes usar el moldeque quieras. Son increiblemente deliciosas. Las puedes decorar con fondant o con lo que desees,son perfectas de cualquier manera.</h3>
+   
+   <img src="galleta1.jpg"
+     alt="galletas de mantequilla"
+     width="400"
+     height="400";/>
+
+    <img src="galleta2.jpg"
+    alt="galletas con te"
+    width="400"
+    height="400";/>
+
+    <img src="galleta3.jpg"
+    alt="galleta con pasas"
+    width="400"
+   height="400";/>
+
+</article>
+<footer> 
+<p>comentarios (5)</p> 
+<footer>
+<time>19/01/2022</time>
+<footer>derechos reservados 2017-2022</footer>
+</body>
